@@ -24,3 +24,6 @@ yarn-error.log*
 
 # API keys
 .env
+
+# env 적용 안됨
+src/service/firebase.js
